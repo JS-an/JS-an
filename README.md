@@ -1,10 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JS-an)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JS-an)](https://github.com/anuraghazra/github-readme-stats)
-- 👋 Hi, I’m Allen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JS-an&show_icons=true&theme=dark&card_width=500)](https://github.com/anuraghazra/github-readme-stats)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JS-an&theme=dark&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 JS-an/JS-an is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
